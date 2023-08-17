@@ -11,9 +11,9 @@ Ao selecionar um filme da listagem, é mostrada uma página de detalhes, onde é
 Um usuário possui nome, email e senha, sendo que o email é seu nome de usuário. Cada filme possui um título, subtítulo, uma imagem, ano de lançamento, sinopse, e um gênero. Os usuários membros podem registrar avaliações para os filmes. Um mesmo usuário membro pode deixar mais de uma avaliação para o mesmo filme.
 
 ### Layout mobile
-![Mobile 1](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/versa-mobile-1.png)
-![Mobile 2](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/versa-mobile-2.png)
-![Mobile 3](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/versa-mobile-3.png)
+![Mobile 1](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/tela-login.jpg)
+![Mobile 2](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/filmes-01.jpg)
+![Mobile 3](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/filmes-02.jpg)
 
 ### Layout web
 ![Web 1](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/versao-desktop-1.png)
