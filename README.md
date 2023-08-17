@@ -24,9 +24,6 @@ Um usuário possui nome, email e senha, sendo que o email é seu nome de usuári
 
 ![Web 2](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/web/descriça--avaliacao-filmes.jpg)
 
-### Modelo conceitual
-![Modelo Conceitual](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/modelo-conceitual.png)
-
 ## Tecnologias utilizadas
 ### Back end
 - Java
