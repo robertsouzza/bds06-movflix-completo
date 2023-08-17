@@ -1,4 +1,4 @@
-# Desafio MovieFliX
+# Desafio MovieFlix
 Desafio realizado como requisito obrigatório do Bootcamp Spring React da [DevSuperior](https://devsuperior.com.br). Desenvolvimento do back-end EM Java utilizando a metodologia do TDD com os testes escritos utilizando o JUnit5. Desenvolvimento do front-end utilizando Typescript e React (React Router Dom, Context API e Axios).
 
 ## Sobre o projeto
@@ -48,7 +48,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone git@github.com:vanessa-maganhoto/bds06-desafio-movieFlix.git
+git clone git@github.com:robertsouzza/bds06-movflix-completo.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -62,7 +62,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone git@github.com:vanessa-maganhoto/bds06-desafio-movieFlix.git
+git clone git@github.com:robertsouzza/bds06-movflix-completo.git
 
 # entrar na pasta do projeto front end web
 cd frontend
@@ -76,7 +76,7 @@ yarn start
 
 ## Autor
 
-Vanessa Matos
+Roberto Castro de Souza
 
-https://www.linkedin.com/in/vanessaammatos
+https://www.linkedin.com/in/roberto-castro-de-souza-783442a1
 
