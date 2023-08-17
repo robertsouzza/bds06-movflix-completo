@@ -1,4 +1,4 @@
-# Desafio MovieFlix
+# Desafio MovieFliX
 Desafio realizado como requisito obrigatório do Bootcamp Spring React da [DevSuperior](https://devsuperior.com.br). Desenvolvimento do back-end EM Java utilizando a metodologia do TDD com os testes escritos utilizando o JUnit5. Desenvolvimento do front-end utilizando Typescript e React (React Router Dom, Context API e Axios).
 
 ## Sobre o projeto
