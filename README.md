@@ -14,6 +14,8 @@ Um usuário possui nome, email e senha, sendo que o email é seu nome de usuári
 ![Mobile 1](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/tela-login.jpg)
 ![Mobile 2](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/filmes-01.jpg)
 ![Mobile 3](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/filmes-02.jpg)
+![Mobile 4](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/descricao-filme.jpg)
+![Mobile 5](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/avaliacao-filme.jpg)
 
 ### Layout web
 ![Web 1](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/versao-desktop-1.png)
