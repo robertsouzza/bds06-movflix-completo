@@ -10,19 +10,19 @@ Ao selecionar um filme da listagem, é mostrada uma página de detalhes, onde é
 
 Um usuário possui nome, email e senha, sendo que o email é seu nome de usuário. Cada filme possui um título, subtítulo, uma imagem, ano de lançamento, sinopse, e um gênero. Os usuários membros podem registrar avaliações para os filmes. Um mesmo usuário membro pode deixar mais de uma avaliação para o mesmo filme.
 
-### Layout mobile
+### Layout Mobile
 ![Mobile 1](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/tela-login.jpg)
 ![Mobile 2](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/filmes-01.jpg)
 ![Mobile 3](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/filmes-02.jpg)
 ![Mobile 4](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/descricao-filme.jpg)
 ![Mobile 5](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/mobile/avaliacao-filme.jpg)
 
-### Layout web
-![Web 1](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/versao-desktop-1.png)
+### Layout Web
+![Web 1](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/web/tela-login.jpg)
 
-![Web 2](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/versao-desktop-2.png)
+![Web 2](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/web/tela-filmes.jpg)
 
-![Web 2](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/versao-desktop-3.png)
+![Web 2](https://github.com/robertsouzza/bds06-movflix-completo/blob/main/imagens/web/descriça--avaliacao-filmes.jpg)
 
 ### Modelo conceitual
 ![Modelo Conceitual](https://github.com/vanessa-maganhoto/assets/blob/main/cap5-bds-movieflix/modelo-conceitual.png)
